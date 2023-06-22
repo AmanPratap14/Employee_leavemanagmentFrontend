@@ -1,11 +1,11 @@
 # Getting Started with Create React App
 
-![Alt Text](/src/Sample/newuser.jpeg)
+![Adding New User](/src/Sample/newuser.jpeg)
 
-![Alt Text](/src/Sample/addleave.jpeg)
-![Alt Text](/src/Sample/Data.jpeg)
-![Alt Text](/src/Sample/ttlleave.jpeg)
-![Alt Text](/src/Sample/error.jpeg)
+![Apply For Leave](/src/Sample/addleave.jpeg)
+![Logs Data Leaves](/src/Sample/Data.jpeg)
+![Total Leaves ](/src/Sample/ttlleave.jpeg)
+![Error message ](/src/Sample/error.jpeg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
