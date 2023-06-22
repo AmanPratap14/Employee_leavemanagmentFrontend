@@ -1,0 +1,21 @@
+/* UserDetailsForm.css */
+
+.user-details-form {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.user-details-form input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.user-details-form button[type="submit"] {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}

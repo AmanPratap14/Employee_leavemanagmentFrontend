@@ -1,0 +1,28 @@
+/* Dashboard.css */
+
+.dashboard {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+.dashboard h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.dashboard h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.dashboard-item {
+  margin-bottom: 10px;
+}
+
+.dashboard-item p {
+  margin-bottom: 5px;
+}
+
