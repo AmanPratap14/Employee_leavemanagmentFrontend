@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://localhost:3000/api'; // Replace with your backend URL
+const BASE_URL = 'http://localhost:3001/api'; // Replace with your backend URL
 
 const userService = {
   getUsers: async () => {

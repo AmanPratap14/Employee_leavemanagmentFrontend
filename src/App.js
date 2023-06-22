@@ -29,6 +29,7 @@ const App = () => {
       try {
         const users = await getUsers();
         console.log("uuuu",users);
+        
         setUsers(users);
       } catch(err) {
         console.log(err)
@@ -36,7 +37,7 @@ const App = () => {
     }
     fetchUsers();
     fetchUserLeaves();
-  }, []);
+  }, [getUserLeaves, getUsers]);
 
   const handleAddUser = async (userData) => {
     try {
@@ -63,10 +64,10 @@ const App = () => {
       <h2>User Details Form</h2>
       <UserDetailsForm addUser={handleAddUser} />
 
-      <h2>Leave Application Form</h2>
+      <h2>Apply for Leave Application Form</h2>
       <LeaveApplicationForm users={users} applyLeave={handleApplyLeave} />
 
-      <h2>Dashboard</h2>
+      <h2>Logs</h2>
       <Dashboard userLeaves={userLeaves} />
     </div>
   );
