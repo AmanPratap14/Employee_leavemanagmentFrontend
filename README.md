@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+![Alt Text](/src/Sample/newuser.jpeg)
+
+![Alt Text](/src/Sample/addleave.jpeg)
+![Alt Text](/src/Sample/Data.jpeg)
+![Alt Text](/src/Sample/ttlleave.jpeg)
+![Alt Text](/src/Sample/error.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
